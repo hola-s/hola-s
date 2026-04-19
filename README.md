@@ -10,7 +10,7 @@ const hola = {
     code: ["JavaScript", "Python"],
     tools: ["React", "Node.js", "Git", "Linux"],
     currentlyLearning: ["AI", "Full Stack Development"],
-    funFact: "Coffee + Code = Perfect Combo ☕"
+    funFact: "www"
 };
 
 ---
